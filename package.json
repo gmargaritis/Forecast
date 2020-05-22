@@ -1,0 +1,11 @@
+{
+  "name": "Forecast",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "Forecast": "bin/Forecast"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
